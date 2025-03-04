@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning NextJs 
+- 👯 I’m looking to collaborate on Anyone who seek fast learner
+- 💬 Ask me about anything you want
+
+
 <!--
 **Tharindu-Dharmadasa/Tharindu-Dharmadasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
