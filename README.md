@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning NextJs 
-- 👯 I’m looking to collaborate on Anyone who seek fast learner
-- 💬 Ask me about anything you want
+- 🌱 I’m currently learning AI and Machine Learning ...  
+- 👯 I’m looking to collaborate on anyone who seek fast learner...
+- 💬 Ask me about anything you want...
 
 
 <!--
