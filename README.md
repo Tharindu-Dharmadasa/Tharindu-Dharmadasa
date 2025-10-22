@@ -10,9 +10,8 @@ Currently pursuing my **BSc (Hons) in Software Engineering** at the University o
 ## 🌟 Featured Work  
 Some of my projects (more available in my repositories):  
 
-- 🛒 **E-Commerce Web App** – Dynamic platform with authentication, cart, and admin panel *(PHP, MySQL, JS)*
 - 🌐 **Social Media Web App** – Full-stack app with posts, likes, and comments *(Next.js, Clerk, Prisma)*  
-
+- 🛒 **E-Commerce Web App** – Dynamic platform with authentication, cart, and admin panel *(PHP, MySQL, JS)*
 ---
 
 ## 🛠️ Tech Stack  
@@ -22,7 +21,6 @@ Some of my projects (more available in my repositories):
 ---
 
 ## 🔗 Connect with Me  
-- 📂 Explore my projects on [GitHub](https://github.com/Tharindu-Dharmadasa)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/tharindu-dharmadasa0927/)  
 - 📧 Reach me at [tharindudayan27@gmail.com](mailto:tharindudayan27@gmail.com)  
 
